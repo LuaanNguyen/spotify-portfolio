@@ -1,20 +1,7 @@
 <svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="675" rx="32" fill="#111111"/>
-  <rect x="36" y="36" width="1128" height="603" rx="28" fill="url(#paint0_linear)"/>
-  <rect x="124" y="108" width="952" height="459" rx="30" fill="#111827" fill-opacity="0.82"/>
-  <rect x="198" y="182" width="320" height="311" rx="24" fill="#0B1120"/>
-  <rect x="570" y="184" width="416" height="48" rx="16" fill="#1ED760" fill-opacity="0.2"/>
-  <rect x="570" y="260" width="318" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/>
-  <rect x="570" y="302" width="282" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.55"/>
-  <rect x="570" y="344" width="240" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.4"/>
-  <rect x="570" y="410" width="190" height="54" rx="18" fill="#1ED760"/>
-  <text x="210" y="276" fill="#1ED760" font-family="Arial, sans-serif" font-size="48" font-weight="700">{ }</text>
-  <text x="210" y="362" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="54" font-weight="700">Customize first</text>
-  <text x="210" y="416" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="24">Replace content before changing the design system</text>
-  <defs>
-    <linearGradient id="paint0_linear" x1="56" y1="52" x2="1140" y2="615" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1ED760"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
+  <rect width="1200" height="675" rx="32" fill="#5A5A5A"/>
+  <text x="88" y="102" fill="#F5F5F5" font-family="Arial, sans-serif" font-size="28" font-weight="700">Blog Placeholder</text>
+  <text x="88" y="288" fill="#1F1F1F" font-family="Arial, sans-serif" font-size="96" font-weight="700">{ }</text>
+  <text x="88" y="554" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Customize first</text>
+  <text x="88" y="602" fill="#ECECEC" font-family="Arial, sans-serif" font-size="24">Replace starter copy before polishing the visuals.</text>
 </svg>

@@ -1,22 +1,13 @@
 <svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="675" rx="32" fill="#111111"/>
-  <rect x="36" y="36" width="1128" height="603" rx="28" fill="url(#paint0_linear)"/>
-  <rect x="120" y="108" width="960" height="459" rx="28" fill="#0F172A" fill-opacity="0.8"/>
-  <rect x="178" y="164" width="358" height="52" rx="16" fill="#1ED760" fill-opacity="0.2"/>
-  <rect x="178" y="238" width="290" height="24" rx="12" fill="#E5E7EB" fill-opacity="0.7"/>
-  <rect x="178" y="278" width="248" height="24" rx="12" fill="#E5E7EB" fill-opacity="0.5"/>
-  <rect x="178" y="338" width="178" height="54" rx="18" fill="#1ED760"/>
-  <rect x="624" y="164" width="382" height="304" rx="26" fill="#111111" fill-opacity="0.72"/>
-  <rect x="670" y="210" width="290" height="16" rx="8" fill="#1ED760" fill-opacity="0.4"/>
-  <rect x="670" y="250" width="256" height="16" rx="8" fill="#FFFFFF" fill-opacity="0.7"/>
-  <rect x="670" y="290" width="220" height="16" rx="8" fill="#FFFFFF" fill-opacity="0.5"/>
-  <rect x="670" y="370" width="140" height="18" rx="9" fill="#1ED760"/>
-  <text x="176" y="468" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="48" font-weight="700">Studio Site System</text>
-  <defs>
-    <linearGradient id="paint0_linear" x1="54" y1="50" x2="1140" y2="625" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F766E"/>
-      <stop offset="0.55" stop-color="#1ED760"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
+  <rect width="1200" height="675" rx="32" fill="#5A5A5A"/>
+  <text x="88" y="102" fill="#F5F5F5" font-family="Arial, sans-serif" font-size="28" font-weight="700">Project Placeholder</text>
+  <rect x="156" y="170" width="888" height="300" rx="28" stroke="#1F1F1F" stroke-width="18"/>
+  <rect x="214" y="230" width="320" height="34" rx="17" fill="#1F1F1F"/>
+  <rect x="214" y="296" width="248" height="22" rx="11" fill="#1F1F1F"/>
+  <rect x="214" y="338" width="208" height="22" rx="11" fill="#1F1F1F"/>
+  <rect x="674" y="230" width="202" height="18" rx="9" fill="#1F1F1F"/>
+  <rect x="674" y="276" width="164" height="18" rx="9" fill="#1F1F1F"/>
+  <rect x="674" y="322" width="132" height="18" rx="9" fill="#1F1F1F"/>
+  <text x="88" y="554" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Studio Site System</text>
+  <text x="88" y="602" fill="#ECECEC" font-family="Arial, sans-serif" font-size="24">Simple placeholder art keeps the starter cleaner.</text>
 </svg>

@@ -1,18 +1,12 @@
 <svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="675" rx="32" fill="#0B1120"/>
-  <rect x="36" y="36" width="1128" height="603" rx="28" fill="url(#paint0_linear)"/>
-  <rect x="100" y="104" width="1000" height="467" rx="28" fill="#111111" fill-opacity="0.8"/>
-  <circle cx="320" cy="336" r="122" stroke="#1ED760" stroke-width="14"/>
-  <circle cx="320" cy="336" r="68" fill="#1ED760" fill-opacity="0.22"/>
-  <circle cx="320" cy="214" r="14" fill="#1ED760"/>
-  <circle cx="442" cy="336" r="14" fill="#1ED760"/>
-  <circle cx="320" cy="458" r="14" fill="#1ED760"/>
-  <text x="520" y="222" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Orbit Sprint Planner</text>
-  <text x="520" y="280" fill="#D1FAE5" font-family="Arial, sans-serif" font-size="24">Roadmaps, check-ins, and async planning in one focused dashboard</text>
-  <defs>
-    <linearGradient id="paint0_linear" x1="52" y1="56" x2="1120" y2="612" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1ED760"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
+  <rect width="1200" height="675" rx="32" fill="#5A5A5A"/>
+  <text x="88" y="102" fill="#F5F5F5" font-family="Arial, sans-serif" font-size="28" font-weight="700">Project Placeholder</text>
+  <circle cx="310" cy="312" r="118" stroke="#1F1F1F" stroke-width="18"/>
+  <circle cx="310" cy="312" r="52" fill="#1F1F1F"/>
+  <circle cx="310" cy="194" r="14" fill="#1F1F1F"/>
+  <circle cx="428" cy="312" r="14" fill="#1F1F1F"/>
+  <circle cx="310" cy="430" r="14" fill="#1F1F1F"/>
+  <circle cx="192" cy="312" r="14" fill="#1F1F1F"/>
+  <text x="88" y="554" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Orbit Sprint Planner</text>
+  <text x="88" y="602" fill="#ECECEC" font-family="Arial, sans-serif" font-size="24">A neutral placeholder works better than decorative filler.</text>
 </svg>

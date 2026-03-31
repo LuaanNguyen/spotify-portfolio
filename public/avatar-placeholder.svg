@@ -1,15 +1,5 @@
 <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="400" rx="48" fill="#121212"/>
-  <rect x="16" y="16" width="368" height="368" rx="36" fill="url(#paint0_linear)"/>
-  <circle cx="200" cy="150" r="72" fill="#121212" fill-opacity="0.85"/>
-  <path d="M96 320C96 268.144 138.144 226 190 226H210C261.856 226 304 268.144 304 320V328H96V320Z" fill="#121212" fill-opacity="0.85"/>
-  <circle cx="302" cy="92" r="34" fill="#1ED760" fill-opacity="0.25"/>
-  <circle cx="110" cy="82" r="22" fill="#FDE68A" fill-opacity="0.3"/>
-  <defs>
-    <linearGradient id="paint0_linear" x1="34" y1="26" x2="362" y2="378" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1ED760"/>
-      <stop offset="0.52" stop-color="#34D399"/>
-      <stop offset="1" stop-color="#0F172A"/>
-    </linearGradient>
-  </defs>
+  <rect width="400" height="400" rx="48" fill="#5A5A5A"/>
+  <circle cx="200" cy="146" r="68" fill="#1F1F1F"/>
+  <path d="M94 320C94 267.533 136.533 225 189 225H211C263.467 225 306 267.533 306 320V328H94V320Z" fill="#1F1F1F"/>
 </svg>
