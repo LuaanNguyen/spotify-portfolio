@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="36" fill="#111111"/>
+  <rect x="28" y="28" width="1144" height="574" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="78" y="88" width="274" height="454" rx="28" fill="#171717" fill-opacity="0.9"/>
+  <rect x="404" y="92" width="720" height="88" rx="28" fill="#171717" fill-opacity="0.82"/>
+  <rect x="404" y="204" width="342" height="286" rx="28" fill="#171717" fill-opacity="0.82"/>
+  <rect x="782" y="204" width="342" height="136" rx="28" fill="#171717" fill-opacity="0.82"/>
+  <rect x="782" y="354" width="342" height="136" rx="28" fill="#171717" fill-opacity="0.82"/>
+  <circle cx="215" cy="214" r="86" fill="#1ED760" fill-opacity="0.22"/>
+  <circle cx="215" cy="214" r="58" fill="#1ED760"/>
+  <text x="120" y="390" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Spotify</text>
+  <text x="120" y="446" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Portfolio</text>
+  <text x="120" y="492" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="24">Starter template for personal sites</text>
+  <text x="440" y="146" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="42" font-weight="700">Bold layout.</text>
+  <text x="662" y="146" fill="#1ED760" font-family="Arial, sans-serif" font-size="42" font-weight="700">Easy content edits.</text>
+  <text x="440" y="280" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Projects</text>
+  <text x="440" y="322" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="22">Replace the starter cards with your own</text>
+  <text x="818" y="280" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Writing</text>
+  <text x="818" y="322" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="22">Markdown blog included</text>
+  <text x="818" y="430" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Metadata</text>
+  <text x="818" y="472" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="22">SEO, icons, and social cards centralized</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="56" y1="44" x2="1156" y2="586" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1ED760"/>
+      <stop offset="0.45" stop-color="#1B4332"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" rx="32" fill="#111111"/>
+  <rect x="36" y="36" width="1128" height="603" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="104" y="108" width="992" height="459" rx="28" fill="#111827" fill-opacity="0.82"/>
+  <circle cx="286" cy="332" r="112" fill="#1ED760" fill-opacity="0.18"/>
+  <circle cx="286" cy="332" r="76" stroke="#1ED760" stroke-width="18"/>
+  <path d="M286 278V338L330 370" stroke="#1ED760" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="492" y="176" width="456" height="64" rx="20" fill="#1ED760" fill-opacity="0.18"/>
+  <rect x="492" y="282" width="376" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.72"/>
+  <rect x="492" y="328" width="328" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.5"/>
+  <rect x="492" y="374" width="284" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.36"/>
+  <text x="492" y="220" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="48" font-weight="700">Easy to update</text>
+  <text x="492" y="456" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="24">A good personal site should take minutes, not a weekend, to refresh</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="52" y1="50" x2="1138" y2="618" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#064E3B"/>
+      <stop offset="0.5" stop-color="#1ED760"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

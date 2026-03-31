@@ -1,0 +1,20 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" rx="32" fill="#111111"/>
+  <rect x="36" y="36" width="1128" height="603" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="148" y="88" width="316" height="499" rx="34" fill="#0F172A" fill-opacity="0.88"/>
+  <rect x="528" y="112" width="520" height="138" rx="28" fill="#0F172A" fill-opacity="0.78"/>
+  <rect x="528" y="282" width="520" height="98" rx="28" fill="#0F172A" fill-opacity="0.78"/>
+  <rect x="528" y="406" width="520" height="98" rx="28" fill="#0F172A" fill-opacity="0.78"/>
+  <rect x="234" y="188" width="144" height="144" rx="72" fill="#1ED760"/>
+  <rect x="282" y="146" width="48" height="132" rx="24" fill="#0F172A"/>
+  <rect x="250" y="278" width="112" height="18" rx="9" fill="#0F172A"/>
+  <text x="544" y="180" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Voice Notes Studio</text>
+  <text x="544" y="236" fill="#D1FAE5" font-family="Arial, sans-serif" font-size="24">Capture fast thoughts, tag them, and revisit them later</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="92" y1="52" x2="1112" y2="615" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#134E4A"/>
+      <stop offset="0.58" stop-color="#1ED760"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>
