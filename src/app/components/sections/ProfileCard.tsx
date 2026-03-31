@@ -38,9 +38,6 @@ function PersonalStatement() {
         <p className="text-spotify-gray text-sm">{siteConfig.owner.headline}</p>
       </div>
       <h4 className="text-sm">
-        {siteConfig.owner.profileIntro}
-        <br />
-        <br />
         {siteConfig.owner.profileBody}
         <br />
         <br />

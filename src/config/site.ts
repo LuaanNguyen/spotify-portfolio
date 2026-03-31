@@ -17,11 +17,10 @@ export const siteConfig = {
     profileIntro:
       "Hi, I&apos;m Average Joe. I build things, break them, and usually fix them before lunch.",
     profileBody:
-      "Use this starter to show the projects you are proud of, the teams you have helped, and the rabbit holes you are currently disappearing into.",
+      "Use this starter to show the projects you are proud of or the rabbit holes you are currently disappearing into.",
     focus:
-      "product systems, frontend architecture, and shipping weird little ideas that turn out useful",
-    blogPrompt:
-      "These sample posts are here so the blog does not feel abandoned on day one.",
+      "product systems, and shipping weird little ideas that turn out useful",
+    blogPrompt: "",
   },
   contact: {
     email: "joe@averagejoe.dev",
@@ -80,7 +79,9 @@ export function absoluteUrl(path = ""): string {
 }
 
 export function getSocialProfileUrls(): string[] {
-  return Object.values(siteConfig.socials).filter((url) => url.startsWith("http"));
+  return Object.values(siteConfig.socials).filter((url) =>
+    url.startsWith("http"),
+  );
 }
 
 export function getNameWords(): string[] {
